@@ -1,0 +1,2 @@
+1. Run Sunpower305.m in matlab
+2. Open suitable version of supplied simulink model and simulate it!
